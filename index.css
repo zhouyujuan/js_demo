@@ -1,0 +1,29 @@
+
+.bg{
+	background-color: red;
+	width: 400px;
+	height: 250px;
+}
+.resultShow{
+	width: 99%;
+	height: 50px;
+	background-color: yellow;
+	line-height: 50px;
+	border: 1px solid #ddd;
+}
+
+
+/*ul样式*/
+.num{
+	width: 100%;
+	height: 100%;
+	list-style: none;
+}
+
+
+
+.num input{
+	display: inline-block;
+	width: 24%;
+	height: 20%;
+}
